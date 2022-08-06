@@ -18,7 +18,8 @@ Visual Studio 2017 required
 - I used v15.9.7
 
 ## Install
- Copy output .asi file along with the menyooStuff folder to the Grand Theft Auto V game directory, making sure asiloader and ScriptHookV are installed.
+ Copy the Menyoo.asi file along with the menyooStuff folder to the Grand Theft Auto V game directory.  
+ **IMPORTANT:** Please make sure that you have asiloader and ScriptHookV installed and they are up to date.
 
 ## Download
 Compiled binary material can be found at [releases](https://github.com/MAFINS/MenyooSP/releases).
