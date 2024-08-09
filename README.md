@@ -1,3 +1,11 @@
+# Someone else with more time and passion has picked up this project and is continuing it. [Menyoo 2.0](https://www.gta5-mods.com/scripts/menyoo-2-0#comments_tab) This Repo will no longer be updated and is archived.
+
+
+
+
+
+
+
 [![Build status](https://github.com/MAFINS/MenyooSP/actions/workflows/master_build.yml/badge.svg)](https://github.com/MAFINS/MenyooSP/actions)
 [![GitHub Latest nightly)](https://img.shields.io/github/v/release/MAFINS/MenyooSP?include_prereleases&label=pre-release&logo=GitHub)](https://github.com/MAFINS/MenyooSP/releases/tag/latest)
 [![GitHub latest release](https://img.shields.io/github/downloads/MAFINS/MenyooSP/latest/total?label=latest-release&logo=GitHub)](https://github.com/MAFINS/MenyooSP/releases/latest)
